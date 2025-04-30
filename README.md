@@ -60,22 +60,29 @@ Empresas que desejam melhorar o relacionamento com seus clientes por meio de tec
 ## Acessibilidade (WCAG 2.1)
 
 - Contraste adequado de cores
+  
     Regra: O contraste entre o texto e o fundo deve ser de pelo menos 4.5:1.
     Exemplo: Texto preto no fundo branco.
   
 - Textos alternativos em imagens
+  
     Regra: Todas as imagens devem ter um atributo alt.
 
 - Navegação por teclado
+  
     Regra: Todo o site deve funcionar com o teclado (tab, enter, esc, etc.).
   
 - Foco visível
+  
     Regra: Quando você usa TAB, o elemento selecionado (link, botão, etc.) precisa ter destaque visual.
   
 - Layout responsivo
+  
     Regra: O conteúdo deve se adaptar bem a diferentes tamanhos de tela (celular, tablet, desktop).
 
 - Linguagem clara e simples
+
+  Regra: Evitar jargões, palavras difíceis ou frases muito longas.
 
 ---
 
