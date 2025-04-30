@@ -1,14 +1,14 @@
-# 🤖 Plataforma de Atendimento com IA - MACK INOVA Solutions
+# Plataforma de Atendimento com IA - MACK INOVA Solutions
 
 Este projeto tem como objetivo o desenvolvimento de uma **plataforma de atendimento ao cliente com Inteligência Artificial**, utilizando um **chatbot inteligente** capaz de interpretar perguntas em linguagem natural, responder com empatia e integrar-se com sistemas corporativos como CRM.
 
-## 🚀 Objetivo
+## Objetivo
 
 Criar uma solução inovadora e acessível para automatizar atendimentos, reduzir tempo de resposta e aumentar a satisfação dos clientes da MACK INOVA Solutions, aplicando princípios de UX e técnicas modernas de IA.
 
 ---
 
-## 🧠 Funcionalidades
+## Funcionalidades
 
 - Chatbot com interpretação de linguagem natural (NLP).
 - Respostas empáticas e personalizadas.
@@ -20,14 +20,14 @@ Criar uma solução inovadora e acessível para automatizar atendimentos, reduzi
 
 ---
 
-## 🎯 Público-Alvo
+## Público-Alvo
 
 Empresas que desejam melhorar o relacionamento com seus clientes por meio de tecnologias inteligentes e eficientes de atendimento automatizado.
 
 ---
 
 
-## ⚙️ Requisitos de Qualidade
+## Requisitos de Qualidade
 
 - Tempo de resposta ≤ 2s
 - Uptime mínimo de 99,5%
@@ -37,7 +37,7 @@ Empresas que desejam melhorar o relacionamento com seus clientes por meio de tec
 
 ---
 
-## 📌 Requisitos Funcionais e Não Funcionais
+## Requisitos Funcionais e Não Funcionais
 
 ### Funcionais
 - RF01: Iniciar conversa via interface web
@@ -57,7 +57,7 @@ Empresas que desejam melhorar o relacionamento com seus clientes por meio de tec
 
 ---
 
-## 📎 Acessibilidade (WCAG 2.1)
+## Acessibilidade (WCAG 2.1)
 
 - Contraste adequado de cores
 - Textos alternativos em imagens
@@ -68,7 +68,7 @@ Empresas que desejam melhorar o relacionamento com seus clientes por meio de tec
 
 ---
 
-## 👥 Equipe
+## Equipe
 
 - Marco Aurélio de Oliveira Guimarães
 - Eduardo Cardozo Pirolo
