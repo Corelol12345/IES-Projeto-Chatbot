@@ -93,7 +93,7 @@ Empresas que desejam melhorar o relacionamento com seus clientes por meio de tec
 
 ---
 
-## 📄 Licença
+## Licença
 
 Este projeto é de uso acadêmico e segue a Licença MIT.
 
